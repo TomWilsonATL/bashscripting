@@ -1,0 +1,2 @@
+# bashscripting
+learning it
